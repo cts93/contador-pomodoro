@@ -15,5 +15,6 @@ Este projeto consiste em um contador de tempo com função Pomodoro para auxilia
 - Marcação visual de progresso: Quantas sessões de Pomodoro foram completas naquele dia
 - Função cronômetro para ser utilizada sob demanda
 - Autosave de progresso
+- Modos diurno e noturno da página
 
 ## Data de entrega: 28/10/2022
