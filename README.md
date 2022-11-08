@@ -17,4 +17,6 @@ Este projeto consiste em um contador de tempo com função Pomodoro para auxilia
 - Autosave de progresso
 - Modos diurno e noturno da página
 
-## Data de entrega: 28/10/2022
+## Data de entrega: ~~28/10/2022~~
+
+## Status: Este projeto/repositório está temporariamente pausado para aprofundamento de estudos relacioandos.
